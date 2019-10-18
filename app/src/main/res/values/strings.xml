@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FireRPG</string>
+    <string name="action_settings">Settings</string>
+    <string name="item">item</string>
+    <string name="grocery">grocery</string>
+    <string name="quantity">quantity</string>
+    <string name="title_activity_contetn_list">contetn_list</string>
+    <string name="item_name">Item Name:</string>
+    <string name="date">Date</string>
+</resources>
